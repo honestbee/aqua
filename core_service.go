@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/pivotal-golang/bytefmt"
+	"code.cloudfoundry.org/bytefmt"
 )
 
 type CoreService struct {
